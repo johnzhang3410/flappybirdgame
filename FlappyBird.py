@@ -1,6 +1,5 @@
 #John Zhang
 #Flappy Bird Game
-#June 4, 2020
 
 import turtle, pygame, time, sys
 from pygame.locals import * 
